@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(241, 241, 241);
+}
+
+.poster {
+    background-color:white;
+    width: 300px;
+    padding: 10px;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 10px 0px -20px 0px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.details {
+    margin-bottom: 20px;
+}
+
+.details h2 {
+    color: rgb(65, 65, 65);
+}
+
+.details ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.details li {
+    margin-bottom: 5px;
+}
+
+.details p {
+    color: rgb(92, 91, 91);
+}
+
+
+h1 {
+    color: rgb(61, 61, 61);
+}
+
+p {
+    color: rgb(66, 66, 66);
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: rgb(39, 177, 182);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: rgb(103, 200, 238);
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 100px;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(235, 229, 229);
+    background-image: url('https://images.pexels.com/photos/260352/pexels-photo-260352.jpeg?auto=compress&cs=tinysrgb&w=600'); /* Add your background image URL here */
+    background-size: cover;
+    background-position: center;
+}
